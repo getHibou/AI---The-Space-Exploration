@@ -1,6 +1,32 @@
+
 <fable>
-	<page>
-  
-    
+  <page background="space_bg.png">
+arduino
+Copy code
+<agent img="spaceship.png" x="50" y="200" width="150" height="150" />
+
+<agent
+  text="A Grande Jornada Espacial" font-size="24" color="white" x="50" y="50" />
+
+<agent
+  text="Dra. Valentina Silva, uma renomada astrofísica, liderou a missão para explorar além do sistema solar." font-size="18" color="white" x="250" y="100" />
+
+<agent
+  text="A tripulação diversificada embarcou na 'Estrela Pioneira' equipada com tecnologias avançadas." font-size="18" color="white" x="250" y="150" />
+
+<agent
+  text="Desafiando os confins do espaço, eles enfrentaram tempestades solares e asteroides errantes." font-size="18" color="white" x="250" y="200" />
+
+<agent
+  text="Cada descoberta era transmitida de volta à Terra, inspirando gerações a sonharem com o desconhecido." font-size="18" color="white" x="250" y="250" />
+
+<agent
+  text="Ao alcançarem um sistema solar distante, encontraram um planeta habitado por seres intergalácticos amigáveis." font-size="18" color="white" x="250" y="300" />
+
+<agent
+  text="A troca de conhecimentos uniu as civilizações em uma busca comum por compreensão e harmonia." font-size="18" color="white" x="250" y="350" />
+
+<agent
+  text="A 'Estrela Pioneira' retornou à Terra, não apenas com descobertas científicas, mas com a lição de que a exploração espacial é a união de todas as formas de vida." font-size="18" color="white" x="250" y="400" />
   </page>
 </fable>
