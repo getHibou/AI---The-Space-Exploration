@@ -30,8 +30,8 @@
             text="A missão de Ana foi um marco na história da exploração espacial. Ela ajudou a provar que a humanidade é capaz de viajar para outros planetas e viver lá." x="190" y="20" width="300" color="red" on-touch="_GOTO_PAGE:7" />
     </page> 
 
-    <page background="8-ttZZi16yWoWjfxT.png" soundtrack="First Step.mp3"> 
+    <page background="Captura de tela de 2023-12-11 17-01-31.png"soundtrack="First Step.mp3"> 
         <agent
-            text="A missão de Ana foi um marco na história da exploração espacial. Ela ajudou a provar que a humanidade é capaz de viajar para outros planetas e viver lá." x="190" y="20" width="300" color="red" />
+            text="Ana voltou para a Terra como uma heroína. Ela foi homenageada por seus feitos e inspirou milhões de pessoas ao redor do mundo." x="190" y="20" width="300" color="red" />
     </page> 
 </fable>
