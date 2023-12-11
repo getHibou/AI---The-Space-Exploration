@@ -44,6 +44,7 @@
 
     <page background="Captura de tela de 2023-12-11 17-12-20.png" soundtrack="First Step.mp3"> 
         <agent
-            text=Ana sorriu. Ela sabia que o futuro da exploração espacial estava em boas mãos." x="190" y="20" width="300" color="red"/>
+            text="Ana sorriu. Ela sabia que o futuro da exploração espacial estava em boas mãos." x="190" y="20" width="300" color="red" on-touch="_GOTO_PAGE:9" />
     </page> 
+    
 </fable>
