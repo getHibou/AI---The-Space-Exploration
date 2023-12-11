@@ -39,12 +39,12 @@
 
      <page background="Captura de tela de 2023-12-11 17-09-00.png" soundtrack="First Step.mp3"> 
         <agent
-            text="Um dia, Ana estava caminhando pela praia quando viu uma criança olhando para o céu. A criança estava apontando para uma estrela e dizendo: Quando eu crescer, quero ser astronauta como você." x="20" y="450" width="300" color="white" on-touch="_GOTO_PAGE:9" />
+            text="Um dia, Ana estava caminhando pela praia quando viu uma criança olhando para o céu. A criança estava apontando para uma estrela e dizendo: Quando eu crescer, quero ser astronauta como você." x="20" y="380" width="300" color="white" on-touch="_GOTO_PAGE:9" />
     </page> 
 
     <page background="Captura de tela de 2023-12-11 17-12-20.png" soundtrack="First Step.mp3"> 
         <agent
-            text="Ana sorriu. Ela sabia que o futuro da exploração espacial estava em boas mãos." x="20" y="450" width="300" color="black" on-touch="_GOTO_PAGE:9" />
+            text="Ana sorriu. Ela sabia que o futuro da exploração espacial estava em boas mãos." x="20" y="440" width="300" color="white" on-touch="_GOTO_PAGE:9" />
     </page> 
     
 </fable>
