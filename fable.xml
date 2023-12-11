@@ -7,6 +7,6 @@
     </page>
     <page background="mars_terrain.png" soundtrack="First Step.mp3">
         <agent
-            text= "No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar..." color="white" font-size="20" x="20" y="460" width="400" on-touch="_GOTO_PAGE:2"/>
+            text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar..." x="20" y="300" width="300" />
     </page>    
 </fable>
