@@ -27,6 +27,6 @@
 
      <page background="8-ttZZi16yWoWjfxT.png" soundtrack="First Step.mp3"> 
         <agent
-            text="A missão de Ana foi um marco na história da exploração espacial. Ela ajudou a provar que a humanidade é capaz de viajar para outros planetas e viver lá." x="300" y="50" width="300" color="black" />
+            text="A missão de Ana foi um marco na história da exploração espacial. Ela ajudou a provar que a humanidade é capaz de viajar para outros planetas e viver lá." x="190" y="30" width="300" color="red" />
     </page> 
 </fable>
