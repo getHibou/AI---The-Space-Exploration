@@ -1,6 +1,6 @@
 
 <fable>
-    <page background="space_background.png">
+    <page background="space_background.png" soundtrack:"First Step.mp3">
         
        <agent
         text = "The Space Exploration" font-size="22" x="20" y="460" width="400"/>
