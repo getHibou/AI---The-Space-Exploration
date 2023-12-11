@@ -44,6 +44,6 @@
 
     <page background="Captura de tela de 2023-12-11 17-09-00.png" soundtrack="First Step.mp3"> 
         <agent
-            text="Um dia, Ana estava caminhando pela praia quando viu uma criança olhando para o céu. A criança estava apontando para uma estrela e dizendo: Quando eu crescer, quero ser astronauta como você." x="190" y="20" width="300" color="red" on-touch="_GOTO_PAGE:9" />
+            text="Um dia, Ana estava caminhando pela praia quando viu uma criança olhando para o céu. A criança estava apontando para uma estrela e dizendo: Quando eu crescer, quero ser astronauta como você." x="190" y="20" width="300" color="red"  />
     </page> 
 </fable>
