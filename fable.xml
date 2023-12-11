@@ -3,8 +3,6 @@
     <page background="space_background.png" soundtrack:"First Step.mp3">
         
        <agent
-        text = "The Space Exploration" font-size="22" x="20" y="460" width="400"/>
-    <agent
-        text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar.." x="20" y="400" width="300"/> 
+        text = "The Space Exploration" font-size="22" x="20" y="460" width="400" />
     </page>
 </fable>
