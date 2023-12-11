@@ -32,9 +32,9 @@
 
     <page background="Captura de tela de 2023-12-11 17-01-31.png"soundtrack="First Step.mp3"> 
         <agent
-            text="Ana voltou para a Terra como uma heroína." x="20" y="400" width="300" color="white" />
+            text="Ana voltou para a Terra como uma heroína." x="20" y="430" width="300" color="white" />
          <agent
-            text="Ela foi homenageada por seus feitos e inspirou milhões de pessoas ao redor do mundo."  x="20" y="200" width="300" color="black" on-touch="_GOTO_PAGE:8"/>
+            text="Ela foi homenageada por seus feitos e inspirou milhões de pessoas ao redor do mundo."  x="20" y="300" width="300" color="w" on-touch="_GOTO_PAGE:8"/>
     </page> 
 
      <page background="Captura de tela de 2023-12-11 17-09-00.png" soundtrack="First Step.mp3"> 
