@@ -22,7 +22,11 @@
 
      <page background="8-7dKJY7TCc8a2NDn.png" soundtrack="First Step.mp3"> 
         <agent
-            text="Mas Ana também enfrentou desafios. Ela teve que lidar com a gravidade reduzida de Marte, com a radiação espacial e com os perigos de um ambiente extraterrestre. Ela também teve que trabalhar em equipe para superar esses desafios." x="20" y="350" width="300" color="red" />
+            text="Mas Ana também enfrentou desafios. Ela teve que lidar com a gravidade reduzida de Marte, com a radiação espacial e com os perigos de um ambiente extraterrestre. Ela também teve que trabalhar em equipe para superar esses desafios." x="20" y="350" width="300" color="red" on-touch="_GOTO_PAGE:6" />
     </page> 
-    
+
+     <page background="8-7dKJY7TCc8a2NDn.png" soundtrack="First Step.mp3"> 
+        <agent
+            text="A missão de Ana foi um marco na história da exploração espacial. Ela ajudou a provar que a humanidade é capaz de viajar para outros planetas e viver lá." x="20" y="350" width="300" color="red" />
+    </page> 
 </fable>
