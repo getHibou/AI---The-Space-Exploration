@@ -2,7 +2,7 @@
 <fable>
     <page background="space_background.png" soundtrack:"First Step.mp3">
         <agent 
-        text="O pequeno Cavaleiro" font-size="20" x="20" y="460" 
-        width="400" />
+            text="O Planeta Vermelho" color="white" font-size="20" x="20" y="460" 
+            width="400" />
     </page>
 </fable>
