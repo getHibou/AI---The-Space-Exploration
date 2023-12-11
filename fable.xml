@@ -2,8 +2,10 @@
 <fable>
     <page background="space_background.png">
         
-       <agent 
+       <agent
+           text = "The Space Exploration"
            text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar.." font-size="20" x="20" y="460" width="400"/>
-    </agent> 
+    <agent
+        > 
     </page>
 </fable>
