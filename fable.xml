@@ -1,7 +1,7 @@
 
 <fable>
     <page background="space_background.png">
-       <agent text="Pedrinho precisa salvar o mundo dos zumbis." x="20" y="430" color="white" font-size="22" on-touch="frase2">
+       <agent text="Pedrinho precisa salvar o mundo dos zumbi." x="20" y="430" color="white" font-size="22" on-touch="frase2">
       <frase2 text="Portanto, acompanhe ele nessa jornada." x="20" y="450" font-size="22" color="white"/>
     </agent> 
     </page>
