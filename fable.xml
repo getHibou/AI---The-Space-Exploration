@@ -3,8 +3,7 @@
     <page background="space_background.png">
         
        <agent 
-           text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar.." font-size="20" x="20" y="2" width="400" on-touch="segundaFrase">
-      <segundaFrase text="Portanto, acompanhe ele nessa jornada." x="20" y="450" font-size="22" color="white"/>
+           text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar.." font-size="20" x="20" y="460" width="400"/>
     </agent> 
     </page>
 </fable>
