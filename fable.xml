@@ -2,5 +2,7 @@
 <fable>
     <page background="space_background.png" soundtrack:"First Step.mp3">
         <agent
+            text=
+            />
     </page>
 </fable>
