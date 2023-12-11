@@ -12,7 +12,6 @@
      <page background="forest.png" soundtrack="First Step.mp3"> 
         <agent
             text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar..." x="20" y="350" width="300" color="white" />
-        <agent img="loro.png" x="250" y="-25" width="100" height="100" />
-		<agent img="13.png" x="430" y="150" width="75" height="50" />
+        <agent img="loro.png" x="15" y="150" width="100" height="100" />
     </page>   
 </fable>
