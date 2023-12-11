@@ -32,6 +32,8 @@
 
     <page background="Captura de tela de 2023-12-11 17-01-31.png"soundtrack="First Step.mp3"> 
         <agent
-            text="Ana voltou para a Terra como uma heroína. Ela foi homenageada por seus feitos e inspirou milhões de pessoas ao redor do mundo."  x="20" y="250" width="300" color="white />
+            text="Ana voltou para a Terra como uma heroína." x="20" y="250" width="300" color="white" />
+         <agent
+            text=Ela foi homenageada por seus feitos e inspirou milhões de pessoas ao redor do mundo."  x="20" y="250" width="300" color="white" />
     </page> 
 </fable>
