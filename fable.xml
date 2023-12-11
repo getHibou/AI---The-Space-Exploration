@@ -9,13 +9,16 @@
         <agent
             text="No ano de 2043, a exploração espacial estava em um momento de grande efervescência. A humanidade havia estabelecido bases em Marte e na Lua, e estava se preparando para enviar a primeira missão tripulada a um planeta extra-solar..." x="20" y="350" width="300" color="white" on-touch="_GOTO_PAGE:3" />
     </page>
+    
      <page background="8-xWAGyskkUd6ioiX.png".png" soundtrack="First Step.mp3"> 
         <agent
             text="Uma das astronautas dessa missão era uma jovem brasileira chamada Ana. Ana era uma mulher forte, corajosa e determinada, que sempre sonhou em explorar o espaço. Ela havia se dedicado anos aos estudos e treinamentos, e agora estava prestes a realizar o seu grande sonho." x="20" y="330" width="300" color="black" on-touch="_GOTO_PAGE:4" />
     </page>  
+    
     </page>
      <page background="8-xWAGyskkUd6ioiX.png" soundtrack="First Step.mp3"> 
         <agent
             text="Uma das astronautas dessa missão era uma jovem brasileira chamada Ana. Ana era uma mulher forte, corajosa e determinada, que sempre sonhou em explorar o espaço. Ela havia se dedicado anos aos estudos e treinamentos, e agora estava prestes a realizar o seu grande sonho." x="20" y="330" width="300" color="black" />
-    </page>  
+    </page> 
+    
 </fable>
